@@ -62,3 +62,7 @@ Some of them were tutorial made, others where made during the Bootcamp, and the 
 *...Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
 So, if the kangaroos decide to invade Uruguay, each Uruguayan would have to fight 14 kangaroos.*
 
+Ok... now you're free to go...
+
+Bye!
+
