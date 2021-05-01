@@ -63,6 +63,12 @@ Don't know if I'm gonna be able to *master* those things but at least have an id
 
 ---
 
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuj90&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+---
+
 ### Bye!
 
 Before you go, you can take a look at my repositories here. 
