@@ -21,7 +21,11 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 
 ## Education
 
-Let's take a look on the fun stuff...
+Let's take a look at the fun stuff...
+
+<p align ="center">
+<img src="https://d.wattpad.com/story_parts/517302893/images/1506849dbe53f308749322085250.gif" width="450" />
+</p>
 
 - Plataforma 5 | Coding Bootcamp
   - The Coding Bootcamp is an intensive three-month course where I learned the MERN stack technologies and the basic concepts to be able to develop web applications.
