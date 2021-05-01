@@ -49,7 +49,7 @@ Well as we all know, the world of knowledge is infinite... so you gotta keep up.
 
 First, I'm gonna deep dive my JS and React Skills, I really like them... 
 
-Then I'm gonna dive into the Angular World... and why not some Ethereum and stuff like that... 
+Then I'm gonna dive into the Angular World because it's the framework by excellence chosen by fintechs ... and why not some Ethereum... the Crypto world is fascinating and it's changing the game... one is never ready
 
 Don't know if I'm gonna be able to *master* those things but at least have an idea, a code to turn whenever I need, and try to do my best for the first job. :wink:
 
@@ -66,7 +66,7 @@ Don't know if I'm gonna be able to *master* those things but at least have an id
 ### Bye!
 
 Before you go, you can take a look at my repositories here. 
-Some of them were tutorial made, others where made during the Bootcamp, and the **Conway's game of life** was made with a frind of mine, `and it was super challenging`. 
+Some of them were tutorial made, others where made during the Bootcamp, and the [**Conway's game of life**](https://game-of-life-manuj90.vercel.app/) was made with a frind of mine, `and it was super challenging`. 
 
 <p align ="center">
 <img src="https://media1.tenor.com/images/f36a04f0873c3c34b6189f124462e01f/tenor.gif" width="450" />
