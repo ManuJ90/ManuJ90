@@ -3,8 +3,9 @@
 ## About Me
 At the end of 2019 I decided to make a 180 degree on my profesional career, I started with some internet courses and tutorials, and on February I sign up on a UX/UI design course, then I did an introduction course in front-end programming and finished with a Coding Bootcamp.
 Now I’m looking for the opportunity to work in this industry, grow a professional profile and gain experience. 
-
+<p align ="center">
 <img src="https://64.media.tumblr.com/44ee826da41bb8f8eb1f11698052220a/tumblr_n731oy11H31spyb5do1_500.gif" width="250" />
+  </p>
 
 
 
