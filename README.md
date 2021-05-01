@@ -66,3 +66,7 @@ Ok... now you're free to go...
 
 Bye!
 
+<p align ="center">
+<img src="https://pa1.narvii.com/6599/dba0e2953a1ff0537b239bf0be8540a1c4fa9a8c_hq.gif" width="100" />
+</p>
+
