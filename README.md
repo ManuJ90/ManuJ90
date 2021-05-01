@@ -64,7 +64,7 @@ So, if the kangaroos decide to invade Uruguay, each Uruguayan would have to figh
 
 Ok... now you're free to go...
 
-*_ Bye! _*
+***Bye!***
 
 <p align ="center">
 <img src="https://pa1.narvii.com/6599/dba0e2953a1ff0537b239bf0be8540a1c4fa9a8c_hq.gif" width="250" />
