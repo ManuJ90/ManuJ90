@@ -63,9 +63,7 @@ Don't know if I'm gonna be able to *master* those things but at least have an id
 
 ---
 
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuJ90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuJ90&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
