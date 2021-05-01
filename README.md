@@ -40,10 +40,12 @@ We work individually, in pair programing and in groups with the SCRUM methods, a
 - Universidad del Museo Social Argentino | Law Degree 
   - Development in the legal field of the Argentine Republic, with high commitment in the defense of the Rule of law, in accordance with the contents of the National Constitution and the national, regional, and international legal order.
 
+---
 
+### Bye!
 
-
-
+Before you go, you can take a look at my repositories here. 
+Some of them were tutorial made, others where made during the Bootcamp, and the **Conway's game of life** was made with a frind of mine, and it was super challenging. 
 
 <p align ="center">
 <img src="https://media1.tenor.com/images/f36a04f0873c3c34b6189f124462e01f/tenor.gif" width="450" />
@@ -52,6 +54,8 @@ We work individually, in pair programing and in groups with the SCRUM methods, a
 
 ---
 
-⚡ Fun fact: ... Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
-So, if the kangaroos decide to invade Uruguay, each Uruguayan would have to fight 14 kangaroos.
+#### Here's a fun fact... just in case you wanted more :wink:
+
+*...Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
+So, if the kangaroos decide to invade Uruguay, each Uruguayan would have to fight 14 kangaroos.*
 
