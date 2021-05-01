@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ManuJ90/ManuJ90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there!, welcome to my GitHub! 🥳
 
 Here are some ideas to get you started:
 
@@ -10,7 +7,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ...[My Linkedin Profile](https://www.linkedin.com/in/juanscagni/?locale=en_US)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
+So, if the kangaroos decide to invade Uruguay, each Uruguayan would have to fight 14 kangaroos.
 -->
