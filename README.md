@@ -1,6 +1,7 @@
 ### Hello there!, welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" />, I'm Juan
 
 ## About Me.
+
 At the end of 2019 I decided to make a 180 degree on my profesional career, I started with some internet courses and tutorials, and on February I sign up on a UX/UI design course, then I did an introduction course in front-end programming and finished with a Coding Bootcamp.
 Now I’m looking for the opportunity to work in this industry, grow a professional profile and gain experience. 
 <p align ="center">
@@ -8,11 +9,18 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 </p>
 
 ## Skills.
+
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50px"/>
 </p>
 
-##Contact Me.
+## Contact Me.
+
+<a href="https://www.linkedin.com/in/juanscagni/?locale=en_US" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="50px" /></a>
+
+[![Linkedin](https://cdn.worldvectorlogo.com/logos/linkedin.svg)](https://www.linkedin.com/in/juanscagni/?locale=en_US)
+
+
 [My Linkedin Page](https://www.linkedin.com/in/juanscagni/?locale=en_US)
 
 ---
