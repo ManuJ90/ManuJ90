@@ -16,7 +16,7 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 
 ## Contact Me.
 <p align="center">
-<a href="https://www.linkedin.com/in/juanscagni/?locale=en_US" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="180px" /></a>
+<a href="https://www.linkedin.com/in/juanscagni/?locale=en_US" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="180px" /></a>
 </p>
 ---
 
