@@ -44,6 +44,12 @@ We work individually, in pair programing and in groups with the SCRUM methods, a
 
 
 
+
+<p align ="center">
+<img src="https://media1.tenor.com/images/f36a04f0873c3c34b6189f124462e01f/tenor.gif" width="450" />
+</p>
+
+
 ---
 
 ⚡ Fun fact: ... Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
