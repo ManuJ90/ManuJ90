@@ -13,16 +13,10 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 </p>
 
 ##Contact Me.
-<p align="center">
-[<img src="https://logos-marcas.com/wp-content/uploads/2020/04/Linkedin-Logo.png" target="_blank" width="625px"/>](https://www.linkedin.com/in/juanscagni/?locale=en_US)
-</p>
+[My Linkedin Page](https://www.linkedin.com/in/juanscagni/?locale=en_US)
 
+---
 
-
-
-
-
-
-- ⚡ Fun fact: ... Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
+⚡ Fun fact: ... Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
 So, if the kangaroos decide to invade Uruguay, each Uruguayan would have to fight 14 kangaroos.
 
