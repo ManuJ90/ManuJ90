@@ -1,4 +1,4 @@
-### Hello there!, welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" />, I'm Juan
+# Hello there!, welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" />, I'm Juan
 
 ## About Me.
 
@@ -19,7 +19,24 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 <a href="https://www.linkedin.com/in/juanscagni/?locale=en_US" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="180px" /></a>
 </p>
 
-##Education
+## Education
+
+Let's take a look on the fun stuff...
+
+- Plataforma 5 | Coding Bootcamp
+  - The Coding Bootcamp is an intensive three-month course where I learned the MERN stack technologies and the basic concepts to be able to develop web applications.
+We work individually, in pair programing and in groups with the SCRUM methods, and the new EGG Education system, which provide us a real work experience during the entire course.
+
+- Plataforma 5 | Introduction Module
+  - Course based on HTML, CSS, and JavaScript, it prepared me to the Coding Bootcamp.
+
+- Coder House | UX/UI Design
+  - Based on user-centered design and the mobile first philosophy, the course focused on the entire user experience development process, from Research, archetype research, interaction analysis and accessibility, to transfer them to the user interface, which is developed with the Adobe XD tool.
+ 
+- Universidad del Museo Social Argentino | Law Degree 
+  - Development in the legal field of the Argentine Republic, with high commitment in the defense of the Rule of law, in accordance with the contents of the National Constitution and the national, regional, and international legal order.
+
+
 
 
 
