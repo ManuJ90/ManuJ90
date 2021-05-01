@@ -73,7 +73,7 @@ Before you go, you can take a look at my repositories here, and the link to my s
 Some of them were tutorial made, others where made during the Bootcamp, and the [**Conway's game of life**](https://game-of-life-manuj90.vercel.app/) was made with a frind of mine, `and it was super challenging`. 
 
 Take a look:
-- [**The Marvelous OMDB**](https://p5omdb.vercel.app/) | This one is responsive and uses glassmorphism in a nice humble and measured way.
+- [**The Marvelous OMDB**](https://p5omdb.vercel.app/) | This one is almost responsive (I'm still trying to fix the alice-carousel...:grimacing: ) and uses glassmorphism in a nice humble and measured way.
 - [**A nice To-do List App**](https://tododev.netlify.app/).
 - [**A Beat Maker**](https://beatmakers.netlify.app/).
 - [**Simple Weather Channel**](https://weatherchannelplat.netlify.app/) | Yup, preatty simple... 
