@@ -54,7 +54,7 @@ Then I'm gonna dive into the Angular World because it's the framework by excelle
 Don't know if I'm gonna be able to *master* those things but at least have an idea, a code to turn whenever I need, and try to do my best for the first job. :wink:
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" width="50px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="20px"/> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" width="20px"/>
 </p>
 
 <p align ="center">
@@ -63,7 +63,7 @@ Don't know if I'm gonna be able to *master* those things but at least have an id
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuJ90&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuJ90&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
