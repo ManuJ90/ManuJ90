@@ -15,14 +15,9 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 </p>
 
 ## Contact Me.
-
-<a href="https://www.linkedin.com/in/juanscagni/?locale=en_US" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="50px" /></a>
-
-[![Linkedin](https://cdn.worldvectorlogo.com/logos/linkedin.svg)](https://www.linkedin.com/in/juanscagni/?locale=en_US)
-
-
-[My Linkedin Page](https://www.linkedin.com/in/juanscagni/?locale=en_US)
-
+<p align="center">
+<a href="https://www.linkedin.com/in/juanscagni/?locale=en_US" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="180px" /></a>
+</p>
 ---
 
 ⚡ Fun fact: ... Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
