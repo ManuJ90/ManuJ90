@@ -1,14 +1,13 @@
-### Hey there!, welcome to my GitHub! 🥳
+### Hello there!, welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...[My Linkedin Profile](https://www.linkedin.com/in/juanscagni/?locale=en_US)
-- 😄 Pronouns: ... He/Him
+
+
+
+
+
+
+
 - ⚡ Fun fact: ... Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
 So, if the kangaroos decide to invade Uruguay, each Uruguayan would have to fight 14 kangaroos.
--->
+
