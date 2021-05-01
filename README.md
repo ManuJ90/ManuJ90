@@ -18,6 +18,11 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 <p align="center">
 <a href="https://www.linkedin.com/in/juanscagni/?locale=en_US" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="180px" /></a>
 </p>
+
+##Education
+
+
+
 ---
 
 ⚡ Fun fact: ... Did you know that in Australia there are approximately 50 million kangaroos, and in Uruguay there are 3.462 million inhabitants.
