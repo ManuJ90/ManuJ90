@@ -73,11 +73,11 @@ Before you go, you can take a look at my repositories here, and the link to my s
 Some of them were tutorial made, others where made during the Bootcamp, and the [**Conway's game of life**](https://game-of-life-manuj90.vercel.app/) was made with a frind of mine, `and it was super challenging`. 
 
 Take a look:
-- [**The Marvelous OMDB**](https://p5omdb.vercel.app/)
-- [**A nice To-do List App**](https://tododev.netlify.app/)
-- [**A Beat Maker**](https://beatmakers.netlify.app/)
-- [**Simple Weather Channel**](https://weatherchannelplat.netlify.app/) Yup, preatty simple... 
-- [**A Color Game**](https://pickcolorgameplat.netlify.app/) Well... :sweat_smile: you have to guess the RGB color on the header...
+- [**The Marvelous OMDB**](https://p5omdb.vercel.app/) | This one is responsive and uses glassmorphism in a nice humble and measured way.
+- [**A nice To-do List App**](https://tododev.netlify.app/).
+- [**A Beat Maker**](https://beatmakers.netlify.app/).
+- [**Simple Weather Channel**](https://weatherchannelplat.netlify.app/) | Yup, preatty simple... 
+- [**A Color Game**](https://pickcolorgameplat.netlify.app/) | Well... :sweat_smile: you have to guess the RGB color on the header...
 
 <p align ="center">
 <img src="https://media1.tenor.com/images/f36a04f0873c3c34b6189f124462e01f/tenor.gif" width="450" />
