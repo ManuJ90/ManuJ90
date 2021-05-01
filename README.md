@@ -7,11 +7,13 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 <img src="https://64.media.tumblr.com/44ee826da41bb8f8eb1f11698052220a/tumblr_n731oy11H31spyb5do1_500.gif" width="250" />
 </p>
 
-## SKills
+## Skills
 Well, this are the things that I feel confotable with.
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50px"/>
 </p>
+
+##
 
 
 
