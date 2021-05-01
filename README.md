@@ -43,6 +43,16 @@ We work individually, in pair programing and in groups with the SCRUM methods, a
 - Universidad del Museo Social Argentino | Law Degree 
   - Development in the legal field of the Argentine Republic, with high commitment in the defense of the Rule of law, in accordance with the contents of the National Constitution and the national, regional, and international legal order.
 
+## What's next?
+
+Well as we all know, the world of knowledge is infinite... so you gotta keep up...
+
+First, I'm gonna deep dive my JS and React Skills, I really like them... 
+
+Then I'm gonna dive into the Angular World... and why not some Ethereum and stuff like that... 
+
+Don't know if I'm gonna be able to *master* those things but at least have an idea, a code to turn whenever I need, and try to do my best for the first job. :wink: 
+
 ---
 
 ### Bye!
