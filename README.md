@@ -51,7 +51,15 @@ First, I'm gonna deep dive my JS and React Skills, I really like them...
 
 Then I'm gonna dive into the Angular World... and why not some Ethereum and stuff like that... 
 
-Don't know if I'm gonna be able to *master* those things but at least have an idea, a code to turn whenever I need, and try to do my best for the first job. :wink: 
+Don't know if I'm gonna be able to *master* those things but at least have an idea, a code to turn whenever I need, and try to do my best for the first job. :wink:
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" width="50px"/>
+</p>
+
+<p align ="center">
+<img src="https://static.wixstatic.com/media/9f71a0_ce0c3221b3bd4a0994c672309e37c281~mv2.gif" width="250" />
+</p>
 
 ---
 
