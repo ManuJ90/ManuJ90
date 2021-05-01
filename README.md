@@ -48,7 +48,7 @@ We work individually, in pair programing and in groups with the SCRUM methods, a
 ### Bye!
 
 Before you go, you can take a look at my repositories here. 
-Some of them were tutorial made, others where made during the Bootcamp, and the **Conway's game of life** was made with a frind of mine, and it was super challenging. 
+Some of them were tutorial made, others where made during the Bootcamp, and the **Conway's game of life** was made with a frind of mine, `and it was super challenging`. 
 
 <p align ="center">
 <img src="https://media1.tenor.com/images/f36a04f0873c3c34b6189f124462e01f/tenor.gif" width="450" />
@@ -64,7 +64,7 @@ So, if the kangaroos decide to invade Uruguay, each Uruguayan would have to figh
 
 Ok... now you're free to go...
 
-Bye!
+*_ Bye! _*
 
 <p align ="center">
 <img src="https://pa1.narvii.com/6599/dba0e2953a1ff0537b239bf0be8540a1c4fa9a8c_hq.gif" width="250" />
