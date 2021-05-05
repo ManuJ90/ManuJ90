@@ -79,11 +79,6 @@ Take a look:
 - [**Simple Weather Channel**](https://weatherchannelplat.netlify.app/) | Yup, preatty simple... 
 - [**A Color Game**](https://pickcolorgameplat.netlify.app/) | Well... :sweat_smile: you have to guess the RGB color on the header...
 
-<p align ="center">
-<img src="https://media1.tenor.com/images/f36a04f0873c3c34b6189f124462e01f/tenor.gif" width="450" />
-</p>
-
-
 ---
 
 #### Here's a fun fact... just in case you wanted more :wink:
@@ -92,6 +87,12 @@ Take a look:
 So, if the kangaroos decide to invade Uruguay, each Uruguayan would have to fight 14 kangaroos.*
 
 Ok... now you're free to go...
+
+Thanks for stopping by!
+
+<p align ="center">
+<img src="https://media1.tenor.com/images/f36a04f0873c3c34b6189f124462e01f/tenor.gif" width="450" />
+</p>
 
 ***Bye!***
 
