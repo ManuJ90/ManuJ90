@@ -72,6 +72,10 @@ Don't know if I'm gonna be able to *master* those things but at least have an id
 Before you go, you can take a look at my repositories here, and the link to my small and humble projects.
 Some of them were tutorial made, others where made during the Bootcamp, and the [**Conway's game of life**](https://game-of-life-manuj90.vercel.app/) was made with a frind of mine, `and it was super challenging`. 
 
+<p align ="center">
+<img src="https://pa1.narvii.com/6599/dba0e2953a1ff0537b239bf0be8540a1c4fa9a8c_hq.gif" width="250" />
+</p>
+
 Take a look:
 - [**The Marvelous OMDB**](https://p5omdb.vercel.app/) | This one is almost responsive (I'm still trying to fix the alice-carousel...:grimacing: ) and uses glassmorphism in a nice humble and measured way.
 - [**A nice To-do List App**](https://tododev.netlify.app/).
@@ -95,8 +99,3 @@ Thanks for stopping by!
 </p>
 
 ***Bye!***
-
-<p align ="center">
-<img src="https://pa1.narvii.com/6599/dba0e2953a1ff0537b239bf0be8540a1c4fa9a8c_hq.gif" width="250" />
-</p>
-
