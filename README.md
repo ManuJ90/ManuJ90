@@ -32,7 +32,7 @@ Let's take a look at the fun stuff...
 
 - Plataforma 5 | Coding Bootcamp
   - The Coding Bootcamp is an intensive three-month course where I learned the MERN stack technologies and the basic concepts to be able to develop web applications.
-We work individually, in pair programing and in groups with the SCRUM methods, and the new EGG Education system, which provide us a real work experience during the entire course.
+We work individually, in pair programing and in groups with the SCRUM and Agile methodology, and the new EGG Education system, which provide us a real work experience during the entire course.
 
 - Plataforma 5 | Introduction Module
   - Course based on HTML, CSS, and JavaScript, it prepared me to the Coding Bootcamp.
@@ -70,7 +70,7 @@ Don't know if I'm gonna be able to *master* those things but at least have an id
 ### We're almost there!!
 
 Before you go, you can take a look at my repositories here, and the link to my small and humble projects.
-Some of them were tutorial made, others where made during the Bootcamp, and the [**Conway's game of life**](https://game-of-life-manuj90.vercel.app/) was made with a frind of mine, `and it was super challenging`. 
+Some of them were tutorial made, others where made during the Bootcamp, and the [**Conway's game of life**](https://game-of-life-manuj90.vercel.app/) was made with a friend of mine, `and it was super challenging`. 
 
 <p align ="center">
 <img src="https://pa1.narvii.com/6599/dba0e2953a1ff0537b239bf0be8540a1c4fa9a8c_hq.gif" width="250" />
