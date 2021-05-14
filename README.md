@@ -67,7 +67,7 @@ Don't know if I'm gonna be able to *master* those things but at least have an id
 
 ---
 
-### Whe're almost there!!
+### We're almost there!!
 
 Before you go, you can take a look at my repositories here, and the link to my small and humble projects.
 Some of them were tutorial made, others where made during the Bootcamp, and the [**Conway's game of life**](https://game-of-life-manuj90.vercel.app/) was made with a frind of mine, `and it was super challenging`. 
