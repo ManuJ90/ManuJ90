@@ -3,7 +3,7 @@
 ## About Me.
 
 At the end of 2019 I decided to make a full one-eighty on my profesional career.
-I started with some internet courses and tutorials, and on February 2020 I sign up on a UX/UI design course, then in October 2020 I did an introduction course in front-end programming and finished with a Coding Bootcamp in 2021.
+I started with some internet courses and tutorials, and on February 2020 I sign up on a UX/UI design course, then in October 2020 I did an introduction course in front-end programming and finished a Coding Bootcamp in 2021.
 
 Now I’m looking for the opportunity to work in this industry, grow a professional profile and gain experience. 
 
