@@ -19,7 +19,7 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 
 ## Work Experience
 
-- Globant | Test Automation Engineer
+- ***Globant | Test Automation Engineer***
 > After the Test Automation Academy, I had the chance to be a part of the Training program for Disney-ESPN, during those six weeks of training I learned all the basic to automate with JavaScript, using WebDriverIO, Mocha, Chai & Cucumber.
 
 > Later, I landed on the Citi Bank Mexico project, where I'm currently perfecting my skills with Java, Selenium, TestNG, JUnit, Appium, Cucumber & Charles Proxy, automating the mobile application on Android and iOS
