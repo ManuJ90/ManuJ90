@@ -8,7 +8,7 @@ I started with some internet courses and tutorials, and on February 2020 I sign 
 Now I’m looking for the opportunity to work in this industry, grow a professional profile and gain experience. 
 
 <p align ="center">
-<img src="https://giphy.com/gifs/internet-cartoon-network-gumball-BdwcUiwMX5wNq" width="450" />
+<img src="https://media4.giphy.com/media/BdwcUiwMX5wNq/giphy.gif?cid=ecf05e47kqfhroflml5zai2lc53rmgis7iy6yzdg9y5vta6j&rid=giphy.gif&ct=g" width="450" />
 </p>
 
 ## Skills.
