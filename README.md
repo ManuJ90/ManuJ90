@@ -19,6 +19,10 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 
 ## Work Experience
 
+<p align ="center">
+<img src="https://i.pinimg.com/originals/70/4e/f2/704ef2f30564853b5c708ad01a2130f9.gif" width="450" />
+</p>
+
 ## Contact Me.
 <p align="center">
 <a href="https://www.linkedin.com/in/juanscagni/?locale=en_US" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="180px" /></a>
