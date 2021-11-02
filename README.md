@@ -17,6 +17,8 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50px"/>
 </p>
 
+## Work Experience
+
 ## Contact Me.
 <p align="center">
 <a href="https://www.linkedin.com/in/juanscagni/?locale=en_US" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="180px" /></a>
@@ -31,8 +33,8 @@ Let's take a look at the fun stuff...
 </p>
 
 - Globant | Test Automation Academy
-  - Was a six week preparation program to introduce us to the Test Automation world, during this training we learned the basics of OOPS, Java, Selenium, Maven & TestNG.
-In this training program we ecexute automated test on WebPages, APIs & Android Devices.
+  - Was a six-week preparation program to introduce us to the Test Automation world, during this training we learned the basics of OOPS, Java, Selenium, Maven & TestNG.
+In this training program we executed automated test on Webpages, APIs (Rest Assured) & Android Devices (Appium).
 
 - Plataforma 5 | Coding Bootcamp
   - The Coding Bootcamp is an intensive three-month course where I learned the MERN stack technologies and the basic concepts to be able to develop web applications.
