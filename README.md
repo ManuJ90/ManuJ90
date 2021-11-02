@@ -30,6 +30,10 @@ Let's take a look at the fun stuff...
 <img src="https://d.wattpad.com/story_parts/517302893/images/1506849dbe53f308749322085250.gif" width="450" />
 </p>
 
+- Globant | Test Automation Academy
+  - Was a six week preparation program to introduce us to the Test Automation world, during this training we learned the basics of OOPS, Java, Selenium, Maven & TestNG.
+In this training program we ecexute automated test on WebPages, APIs & Android Devices.
+
 - Plataforma 5 | Coding Bootcamp
   - The Coding Bootcamp is an intensive three-month course where I learned the MERN stack technologies and the basic concepts to be able to develop web applications.
 We work individually, in pair programing and in groups with the SCRUM and Agile methodology, and the new EGG Education system, which provide us a real work experience during the entire course.
@@ -42,24 +46,6 @@ We work individually, in pair programing and in groups with the SCRUM and Agile 
  
 - Universidad del Museo Social Argentino | Law Degree 
   - Development in the legal field of the Argentine Republic, with high commitment in the defense of the Rule of law, in accordance with the contents of the National Constitution and the national, regional, and international legal order.
-
-## What's next?
-
-Well as we all know, the world of knowledge is infinite... so you gotta keep up...
-
-First, I'm gonna deep dive my JS and React Skills, I really like them... 
-
-Then I'm gonna dive into the Angular World because it's the framework by excellence chosen by fintechs ... and why not some Ethereum... the Crypto world is fascinating and it's changing the game... one is never ready
-
-Don't know if I'm gonna be able to *master* those things but at least have an idea, a code to turn whenever I need, and try to do my best for the first job. :wink:
-
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="40px"/> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" width="30px"/>
-</p>
-
-<p align ="center">
-<img src="https://static.wixstatic.com/media/9f71a0_ce0c3221b3bd4a0994c672309e37c281~mv2.gif" width="250" />
-</p>
 
 ---
 
