@@ -14,7 +14,7 @@ Now I’m looking for the opportunity to work in this industry, grow a professio
 ## Skills.
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50px"/>
 </p>
 
 ## Work Experience
