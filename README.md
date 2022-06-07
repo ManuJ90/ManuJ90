@@ -1,4 +1,4 @@
-# Hello there!, welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" />, I'm Juan
+# Hello there!, welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8px" />, I'm Juan
 
 ## About Me.
 
